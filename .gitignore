@@ -1,0 +1,7 @@
+*.bak
+*.dwl
+*.dwl2
+*.log
+~$*
+__pycache__/
+.DS_Store
